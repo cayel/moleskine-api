@@ -1,13 +1,14 @@
 #main.py
 
 from fastapi import FastAPI
+from fastapi.responses import HTMLResponse
 
 app = FastAPI()
 
 
-@app.get('/')
-def hello_world():
-    return "Hello,World"
+@app.get("/", response_class=HTMLResponse)
+def healthcheck():
+    return "<h1>All good!</h2>"
 
 
 if __name__ == '__main__':
