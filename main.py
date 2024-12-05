@@ -57,7 +57,7 @@ concerts = [
   {
     "id": '8',
     "date": '2025-03-25',
-    "bands": ['Porr"id"ge Radio'],
+    "bands": ['Porridge Radio'],
     "venue": 'Epicerie Moderne',
     "city": 'Feyzin'
   },
