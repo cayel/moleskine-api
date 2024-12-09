@@ -46,7 +46,8 @@ concerts = [
     "date": "2025-03-12",
     "bands": ["Godspeed You! Black Emperor"],
     "venue": "La Rayonne",
-    "city": "Villeurbanne"
+    "city": "Villeurbanne",
+    "attend": ["Cay","Eay"]
   },
   {
     "id": "7",
@@ -95,7 +96,8 @@ concerts = [
     "date": "2025-04-05",
     "bands": ["Fat Dog"],
     "venue": "Transbordeur",
-    "city": "Villeurbanne"
+    "city": "Villeurbanne",
+    "attend": ["Cay"]
   },
   {
     "id": "14",
