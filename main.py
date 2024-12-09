@@ -10,7 +10,8 @@ concerts = [
     "date": "2025-01-16",
     "bands": ["H-Burns"],
     "venue": "Transbordeur",
-    "city": "Villeurbanne"
+    "city": "Villeurbanne",
+    "attend": ["Cay"]
   },
   {
     "id": "2",
