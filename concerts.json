@@ -134,5 +134,12 @@
       "bands": ["Chalk"],
       "venue": "Marché Gare",
       "city": "Lyon"
+    },
+    {
+      "id": "20",
+      "date": "2025-06-02",
+      "bands": ["Tramhaus"],
+      "venue": "Transbordeur",
+      "city": "Villeurbanne"
     }
   ]
