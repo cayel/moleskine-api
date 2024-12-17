@@ -141,5 +141,12 @@
       "bands": ["Tramhaus"],
       "venue": "Transbordeur",
       "city": "Villeurbanne"
+    },
+    {
+      "id": "21",
+      "date": "2025-05-17",
+      "bands": ["The Underground Youth"],
+      "venue": "Sonic",
+      "city": "Lyon"
     }
   ]
